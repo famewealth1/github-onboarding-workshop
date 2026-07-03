@@ -21,7 +21,7 @@
 2. Located and changed into the given assignment directory. (**classes -> session-00-2026-27-pre-bootcamp-onboarding**)
 3. Read through the **README.md** file to get an understanding of session overview and instructions.
 4. Downloaded a copy of the assignment's raw file onto my local pc and edited it in markdown format in response to the assignment instructions, including renaming the file to include my fullname.
-5. I uploaded the edited and renamed file using the **Add file -> Upload files** buttons and committed the changes using the **contribute button**.
+5. I uploaded the edited and renamed file using the **Add file -> Upload files** buttons and committed the changes with a commit message.
 6. I finally created a pull request, and added my notes for review and merging. 
 
 ### What happened / Result
